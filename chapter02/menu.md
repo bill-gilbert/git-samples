@@ -1,10 +1,10 @@
-# The '80s Diner
+# Fall Menu
 
-## Top Gumbo
-You’ll be ready to brave the heights after this hearty, spicy Southern-style seafood-and-okra stew.
+## Oat Busters Breakfast Bowl
+Deliciously spooky steel-cut oats with stewed pumpkin, warm spices, and candied pecans. This nutritious dish won’t come back to haunt you.
 
-## Mac to the Future
-Mix the '80s with the '50s with our classic baked mac and cheese, handmade with a five-cheese blend and topped with buttery breadcrumbs.
+## The Texas Coleslaw Massacre
+Slow-cooked Texas-style pulled pork, served with fresh rolls and plenty of our housemade coleslaw. Dangerously good.
 
-## Raiders of the Lost Tarka Dal
-Take a trip to India with Dr. Jones’s favorite creamy lentils, fragrant with spices. Vegetarian!
+## Beetlejuice Bellini
+Start your “day-O” with our creepy twist on the classic brunch cocktail: a peach-banana blend spiked with prosecco. Guaranteed to exorcise your hangover.

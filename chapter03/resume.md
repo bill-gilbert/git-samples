@@ -9,7 +9,7 @@ Romulan (beginner)
 
 ## Education
 Starfleet Academy, San Francisco, CA
-Valedictorian, Class of 2018
+~~Valedictorian, Class of 2018~~
 
 ## Experience
 2018-2020, Federation Starship Atlantis - Communications Ensign
